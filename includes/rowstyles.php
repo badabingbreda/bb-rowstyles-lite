@@ -105,15 +105,11 @@ $new_tab = array( 'Effects' => array(
 
 $new_bg_option = array(
 					'unsplashit'	=> _x( 'Unsplash It','Background type.', 'bb-rowstyles-lite' ),
-					'gradient'		=> _x( 'Gradient', 'Background type.', 'bb-rowstyles-lite' ),
 					'youtube'		=> _x( 'Youtube', 'Background type.',	'bb-rowstyles-lite' ),
 				 ) ;
 
 $new_bg_toggle_option = array( 'unsplashit'         => array(
 									'sections'      => array('bg_unsplashit'),
-								),
-								'gradient'			=> array(
-									'sections'		=> array( 'bg_gradient' ),
 								),
 								'youtube'			=>	array(
 									'sections'		=>	array( 'bg_youtube' ),
@@ -201,11 +197,6 @@ $new_bg_section = array(
 				                )
 			    	        )
                     	)
-                	),
-                	'bg_gradient' 	=>  array(
-		  				'title'         => __( 'Gradient' , 'bb-rowstyles-lite' ),
-		  				'fields'        => array(
-						),
                 	),
                 	'bg_youtube'	=> array(
                 		'title'			=> __('Youtube', 'bb-rowstyles-lite'),
