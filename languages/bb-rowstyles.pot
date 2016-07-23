@@ -1,0 +1,290 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beaver Builder Row Styles Lite\n"
+"POT-Creation-Date: 2016-07-23 17:43+0200\n"
+"PO-Revision-Date: 2016-07-23 17:43+0200\n"
+"Last-Translator: Didou Schol <didou@badabing.nl>\n"
+"Language-Team: Didou Schol <didou@badabing.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bb-rowstyles.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/rowstyles.php:29
+msgid "Effects"
+msgstr ""
+
+#: includes/rowstyles.php:32
+msgid "Top Row Style"
+msgstr ""
+
+#: includes/rowstyles.php:36
+msgid "Top Style"
+msgstr ""
+
+#: includes/rowstyles.php:39 includes/rowstyles.php:73
+msgid "None"
+msgstr ""
+
+#: includes/rowstyles.php:40 includes/rowstyles.php:74
+msgid "Slanted Left"
+msgstr ""
+
+#: includes/rowstyles.php:41 includes/rowstyles.php:75
+msgid "Slanted Right"
+msgstr ""
+
+#: includes/rowstyles.php:46
+msgid "Fill color top"
+msgstr ""
+
+#: includes/rowstyles.php:52
+msgid "Top Height"
+msgstr ""
+
+#: includes/rowstyles.php:59 includes/rowstyles.php:97
+msgid "Seperator Image"
+msgstr ""
+
+#: includes/rowstyles.php:66
+msgid "Bottom Row Style"
+msgstr ""
+
+#: includes/rowstyles.php:70
+msgid "Bottom Style"
+msgstr ""
+
+#: includes/rowstyles.php:76
+msgid "Bezier Left"
+msgstr ""
+
+#: includes/rowstyles.php:77
+msgid "Bezier Right"
+msgstr ""
+
+#: includes/rowstyles.php:78
+msgid "Round Bottom"
+msgstr ""
+
+#: includes/rowstyles.php:79
+msgid "Arch Bottom"
+msgstr ""
+
+#: includes/rowstyles.php:84
+msgid "Fill color bottom"
+msgstr ""
+
+#: includes/rowstyles.php:90
+msgid "Bottom Height"
+msgstr ""
+
+#: includes/rowstyles.php:107
+msgctxt "Background type."
+msgid "Unsplash It"
+msgstr ""
+
+#: includes/rowstyles.php:108
+msgctxt "Background type."
+msgid "Gradient"
+msgstr ""
+
+#: includes/rowstyles.php:109
+msgctxt "Background type."
+msgid "Youtube"
+msgstr ""
+
+#: includes/rowstyles.php:125
+msgid "Unsplash Image"
+msgstr ""
+
+#: includes/rowstyles.php:129
+msgid "Unsplash ID"
+msgstr ""
+
+#: includes/rowstyles.php:136
+msgid "Enter a Unsplash ID (https://unsplash.it/images)"
+msgstr ""
+
+#: includes/rowstyles.php:140
+msgid "Image Width"
+msgstr ""
+
+#: includes/rowstyles.php:145 includes/rowstyles.php:154
+msgid "px"
+msgstr ""
+
+#: includes/rowstyles.php:149
+msgid "Image Height"
+msgstr ""
+
+#: includes/rowstyles.php:158
+msgid "Grayscale"
+msgstr ""
+
+#: includes/rowstyles.php:161 includes/rowstyles.php:170
+#: includes/rowstyles.php:179 includes/rowstyles.php:251
+msgid "Yes"
+msgstr ""
+
+#: includes/rowstyles.php:162 includes/rowstyles.php:171
+#: includes/rowstyles.php:180 includes/rowstyles.php:252
+msgid "No"
+msgstr ""
+
+#: includes/rowstyles.php:167
+msgid "Blurred"
+msgstr ""
+
+#: includes/rowstyles.php:176
+msgid "Random"
+msgstr ""
+
+#: includes/rowstyles.php:185
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/rowstyles.php:188
+msgid "Left"
+msgstr ""
+
+#: includes/rowstyles.php:189 includes/rowstyles.php:199
+#: includes/rowstyles.php:319
+msgid "Center"
+msgstr ""
+
+#: includes/rowstyles.php:190
+msgid "Right"
+msgstr ""
+
+#: includes/rowstyles.php:195
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/rowstyles.php:198
+msgid "Top"
+msgstr ""
+
+#: includes/rowstyles.php:200
+msgid "Bottom"
+msgstr ""
+
+#: includes/rowstyles.php:206
+msgid "Gradient"
+msgstr ""
+
+#: includes/rowstyles.php:211
+msgid "Youtube"
+msgstr ""
+
+#: includes/rowstyles.php:215
+msgid "Youtube ID"
+msgstr ""
+
+#: includes/rowstyles.php:222
+msgid "Start Time (s)"
+msgstr ""
+
+#: includes/rowstyles.php:226
+msgid "Starttime in seconds"
+msgstr ""
+
+#: includes/rowstyles.php:230
+msgid "Play for"
+msgstr ""
+
+#: includes/rowstyles.php:234
+msgid "x seconds"
+msgstr ""
+
+#: includes/rowstyles.php:238
+msgid "Placeholder"
+msgstr ""
+
+#: includes/rowstyles.php:244
+msgid "Gradient Overlay"
+msgstr ""
+
+#: includes/rowstyles.php:248
+msgid "Enable Gradient Overlay"
+msgstr ""
+
+#: includes/rowstyles.php:266
+msgid "Gradient Type"
+msgstr ""
+
+#: includes/rowstyles.php:269
+msgid "Diagonal Down"
+msgstr ""
+
+#: includes/rowstyles.php:270
+msgid "Diagonal Up"
+msgstr ""
+
+#: includes/rowstyles.php:271
+msgid "Horizontal"
+msgstr ""
+
+#: includes/rowstyles.php:272
+msgid "Vertical"
+msgstr ""
+
+#: includes/rowstyles.php:277
+msgid "Color 1"
+msgstr ""
+
+#: includes/rowstyles.php:283
+msgid "Color 1 Opacity"
+msgstr ""
+
+#: includes/rowstyles.php:291
+msgid "Color 2 (center)"
+msgstr ""
+
+#: includes/rowstyles.php:297
+msgid "Color 2 Opacity"
+msgstr ""
+
+#: includes/rowstyles.php:305
+msgid "Color 3"
+msgstr ""
+
+#: includes/rowstyles.php:311
+msgid "Color 3 Opacity"
+msgstr ""
+
+#: includes/rowstyles.php:328
+msgid "Overall Opacity"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Beaver Builder Row Styles Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.beaverplugins.com/plugins/rowstyles-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add Unsplash Images, Youtube video and Shaded layers as a full width "
+"background on any row, right from the Row-settings panel. Add a color-shaded "
+"overlay over the background to improve visibility of your modules and text."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BadabingBreda"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.badabing.nl"
+msgstr ""

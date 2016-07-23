@@ -1,0 +1,49 @@
+.sep-image-top, .sep-image-bottom {
+	position:absolute;
+	width:100%;
+}
+.sep-image-top {
+	top:0px;
+}
+
+.sep-image-bottom {
+	bottom: 0px;
+}
+.sep-image-top .wrap, .sep-image-bottom .wrap {
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.bb-rowstyles.gradient_overlay {
+	position: absolute;
+	left: 0px;
+	top: -1px;
+	width: 100%;
+	height: 100%;
+	z-index: 30;
+	overflow: hidden;
+}
+
+.bb-rowstyles {
+	width:100%;
+	position: absolute;
+	z-index:50;
+}
+.bb-rowstyles.row-top {
+	top: -1px;
+}
+
+.bb-rowstyles.row-bottom {
+	bottom: -1px;
+}
+.bb-rowstyles svg.top {
+	top:0px;
+}
+
+.bb-rowstyles svg.bottom {
+	bottom:0px;
+}
