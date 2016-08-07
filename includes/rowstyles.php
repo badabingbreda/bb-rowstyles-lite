@@ -573,7 +573,7 @@ function add_row_style_css ( $css , $nodes , $global_settings ) {
 			if ( isset( $row->settings->youtube_placeholder ) && $row->settings->youtube_placeholder_src !== null ) {
 				$css .= '.fl-node-' . $row->node . ' .ytphimage {display: block;background:url(' . $row->settings->youtube_placeholder_src .') no-repeat center center; background-size:cover;width:100%;height:100%;position:absolute;top:0;left:0;z-index:20;}';
 				$css .= '.fl-node-' . $row->node . ' .fl-row-content-wrap .fl-row-content {';
-				$css .= 'z-index:100;';
+				$css .= 'z-index:100;position:relative;';
 				$css .= '}';
 			}
 		}

@@ -10,7 +10,7 @@
  * Plugin Name: Beaver Builder Row Styles Lite
  * Plugin URI:  https://www.beaverplugins.com/plugins/rowstyles-lite/
  * Description: Add Unsplash Images, Youtube video and Shaded layers as a full width background on any row, right from the Row-settings panel. Add a color-shaded overlay over the background to improve visibility of your modules and text.
- * Version:     0.1
+ * Version:     0.2
  * Author:      BadabingBreda
  * Author URI:  https://www.badabing.nl
  * Text Domain: bb-rowstyles
@@ -18,7 +18,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-define( 'BBROWSTYLESLITE_VERSION' , '0.1' );
+define( 'BBROWSTYLESLITE_VERSION' , '0.' );
 define( 'BBROWSTYLESLITE_DIR', plugin_dir_path( __FILE__ ) );
 define( 'BBROWSTYLESLITE_URL', plugins_url( '/', __FILE__ ) );
 
